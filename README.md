@@ -1,4 +1,4 @@
-# Litmus-OS-2002
+# Litmus-OS-Pluto
 
 ## 寻找下一个梦想
 
@@ -14,4 +14,4 @@
 
 最新 Litmus OS Pluto 的内部版本为“20630.0000”。您可以在“Litmus OS Pluto-设置-关于”页面查看内部版本。如果您的内部版本与最新版本不一致，请更新新版本。
 
-Litmus OS Pluto 会一直持续支持到 Litmus OS Neptune  发布。在支持期间会发布一些修复缺陷或者添加一些需求的小版本，请随时注意更新。
+Litmus OS Pluto 会一直持续支持到 Litmus OS Pluto+发布。在支持期间会发布一些修复缺陷或者添加一些需求的小版本，请随时注意更新。

@@ -1,5 +1,1 @@
-# Litmus OS Pluto March
-
-## 寻找再下一个梦想
-
-Litmus OS Pluto三月特别版，3月31日发布。
+![image](https://user-images.githubusercontent.com/56110713/161369994-fdcceddb-e839-4f71-be7f-24f59ae636dd.png)
